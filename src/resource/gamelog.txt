@@ -1,0 +1,4 @@
+firstCard Eight suit DIAMOND secondCard Two suit CLUB bet HIGHER is win false
+firstCard Five suit  HEART secondCard Ten suit CLUB bet SUIT is win false
+firstCard Nine suit DIAMOND secondCard Eight suit SPADE bet SUIT is win false
+firstCard Nine suit  HEART secondCard Seven suit CLUB bet SUIT is win false
